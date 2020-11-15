@@ -1,0 +1,246 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:12px;
+    color:#000;
+}
+
+.container {
+    width:1200px;
+    height:1200px;
+    background-image:url("nck.png");
+    background-color:transparent;
+    position:relative;
+}
+
+.wrap {
+    float:left;
+    margin:10px;
+}
+
+.dp {
+    width:160px;
+    height:220px;
+    position:absolute;
+    top:296px;
+    left:955px;
+}
+
+.m1 {
+    width:308px;
+    height:366px;
+    position: relative;
+    top:360px;
+    left:445px;
+    border-top:1px solid #fff;
+    border-bottom:1px solid #fff;
+}
+
+.b1 {
+    background-color:transparent;
+    background-image:url(button.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:880px;
+    left:189px;
+    width:260px;
+    height:90px;
+
+}
+
+.b1:hover {
+    opacity: 1;
+}
+
+.b2 {
+    background-color:transparent;
+    background-image:url(button.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:880px;
+    left:449px;
+    width:260px;
+    height:90px;
+
+}
+
+.b2:hover {
+    opacity: 1;
+}
+
+.b3 {
+    background-color:transparent;
+    background-image:url(button.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:880px;
+    left:709px;
+    width:260px;
+    height:90px;
+
+}
+
+.b3:hover {
+    opacity: 1;
+}
+
+.b4 {
+    background-color:transparent;
+    background-image:url(msg.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:539px;
+    left:925px;
+    width:69px;
+    height:64px;
+
+}
+
+.b4:hover {
+    opacity: 1;
+}
+
+.b5 {
+    background-color:transparent;
+    background-image:url(add.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:539px;
+    left:994px;
+    width:69px;
+    height:64px;
+
+}
+
+.b5:hover {
+    opacity: 1;
+}
+
+.b6 {
+    background-color:transparent;
+    background-image:url(block.png);
+    border: none;
+    color: rgb(71, 71, 71);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    position:absolute;
+    top:539px;
+    left:1063px;
+    width:69px;
+    height:64px;
+
+}
+
+.b6:hover {
+    opacity: 1;
+}
+
+p {
+    font-size:12px;
+    font-family:'Times New Roman', Times, serif;
+    color:#000;
+    text-shadow:1px 1px #fff;
+}
+
+h1 {
+    font-size:18px;
+    font-family:'Times New Roman', Times, serif;
+    color:#24282e;
+    text-shadow: 2px 2px 5px #000;
+    text-transform:uppercase;
+    text-align:center;
+}
+
+h2 {
+    font-size:5pt;
+    font-family:'Small Fonts', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform:uppercase;
+    color:#fff;
+    border-bottom:1px solid #fff;
+    border-top:1px solid #fff;
+}
+
+h3 {
+    background: linear-gradient(transparent, #000);
+    text-align:center;
+    font-size:5pt;
+    text-transform:uppercase;
+    color:#fff;
+    line-height:20px;
+    font-family:'Small Fonts', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a.nav {
+    color:#fff;
+    text-shadow:2px 2px 3px #000;
+    text-transform:uppercase;
+    text-decoration:none;
+    font-family:'Times New Roman', Times, serif;
+    font-size:18px;
+
+}
+
+a.nav:hover {
+    transition:.5s ease-in-out;
+    color:#000;
+    letter-spacing:2px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+a {
+    transition:.5s ease-in-out;
+    color:#fff;
+    text-shadow:2px 2px 5px #000;
+    font-size:12px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+a:hover {
+    transition:.5s ease-in-out;
+    color:#000;
+    text-shadow:#fff;
+}
