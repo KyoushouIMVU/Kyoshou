@@ -7,7 +7,7 @@ body {
 .container {
     width:1200px;
     height:1200px;
-    background-image:url("https://github.com/KyoushouIMVU/Kyoshou/blob/main/nck.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/nck.png");
     background-color:transparent;
     position:relative;
 }
@@ -37,7 +37,7 @@ body {
 
 .b1 {
     background-color:transparent;
-    background-image:url("https://raw.githubusercontent.com/KyoushouIMVU/Kyoshou/main/button.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/button.png");
     border: none;
     color: rgb(71, 71, 71);
     text-align: center;
@@ -61,7 +61,7 @@ body {
 
 .b2 {
     background-color:transparent;
-    background-image:url("https://raw.githubusercontent.com/KyoushouIMVU/Kyoshou/main/button.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/button.png");
     border: none;
     color: rgb(71, 71, 71);
     text-align: center;
@@ -85,7 +85,7 @@ body {
 
 .b3 {
     background-color:transparent;
-    background-image:url("https://raw.githubusercontent.com/KyoushouIMVU/Kyoshou/main/button.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/button.png");
     border: none;
     color: rgb(71, 71, 71);
     text-align: center;
@@ -109,9 +109,9 @@ body {
 
 .b4 {
     background-color:transparent;
-    background-image:url("https://github.com/KyoushouIMVU/Kyoshou/blob/main/msg.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/msg.png");
     border: none;
-    color: rgb(71, 71, 71);
+    color:transparent;
     text-align: center;
     font-size: 16px;
     opacity: 0.6;
@@ -133,9 +133,9 @@ body {
 
 .b5 {
     background-color:transparent;
-    background-image:url("https://github.com/KyoushouIMVU/Kyoshou/blob/main/add.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/add.png");
     border: none;
-    color: rgb(71, 71, 71);
+    color:transparent;
     text-align: center;
     font-size: 16px;
     opacity: 0.6;
@@ -157,7 +157,7 @@ body {
 
 .b6 {
     background-color:transparent;
-    background-image:url("https://github.com/KyoushouIMVU/Kyoshou/blob/main/block.png?raw=true");
+    background-image:url("https://kyoushouimvu.github.io/Kyoshou/block.png");
     border: none;
     color: rgb(71, 71, 71);
     text-align: center;
